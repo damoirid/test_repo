@@ -6,3 +6,5 @@ Ingredients:
  - 2 onions
  - 2 carots
  - 1 selery
+ - 1 oil
+ - 1 bread
